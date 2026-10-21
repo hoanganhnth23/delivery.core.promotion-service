@@ -1,0 +1,11 @@
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/CampaignPolicyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/DiscountRoundingTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/OrderReservationEventPolicyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/ReservationPolicyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/ReservationReplayPolicyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/TestVoucher.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/VoucherLifecyclePolicyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/VoucherRulesTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/VoucherStackingCalculatorTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/WalletClaimPolicyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/test/java/com/delivery/promotion/domain/WalletVoucherPolicyTest.java

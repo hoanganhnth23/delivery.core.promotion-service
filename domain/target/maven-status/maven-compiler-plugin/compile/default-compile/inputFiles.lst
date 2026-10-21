@@ -1,0 +1,14 @@
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/CampaignPolicy.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/LegacyDiscountCalculator.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/OrderReservationEventPolicy.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/ReservationPolicy.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/ReservationReplayPolicy.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/Voucher.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/VoucherLayer.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/VoucherLayerResolver.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/VoucherLifecyclePolicy.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/VoucherSelectionMode.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/VoucherSnapshot.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/VoucherStackingCalculator.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/WalletClaimPolicy.java
+/Users/a/Documents/private/delivery/backend_delivery/promotion/domain/src/main/java/com/delivery/promotion/domain/WalletVoucherPolicy.java
